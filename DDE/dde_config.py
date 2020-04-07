@@ -1,4 +1,4 @@
-def dde_NN_Large_Predictor_config():
+def dde_NN_config():
 	#draft 1
 	config = {}
 	config['batch_size'] = 256
