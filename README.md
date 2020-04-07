@@ -15,8 +15,8 @@ Cite:
 @article{huang2019caster,
   title={CASTER: Predicting Drug Interactions with Chemical Substructure Representation},
   author={Huang, Kexin and Xiao, Cao and Hoang, Trong Nghia and Glass, Lucas M and Sun, Jimeng},
-  journal={arXiv preprint arXiv:1911.06446},
-  year={2019}
+  journal={AAAI},
+  year={2020}
 }
 
 ```
